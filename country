@@ -1,5 +1,4 @@
-{
-    "list": [
+[
         {
             "ip": "11",
             "country":"US"
@@ -37,4 +36,3 @@
             "country":"Netherlands"
         }
     ]
-}
